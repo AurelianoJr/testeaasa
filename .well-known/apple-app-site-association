@@ -1,0 +1,12 @@
+{
+  "applinks": {
+  "apps": [],
+  "details":
+    [
+      {
+        "appID": "1:1068487614553:web:0c5ff2fd5c82fe997dd148",
+        "paths": [ "*" ]
+      }
+    ]
+  }
+}
